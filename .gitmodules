@@ -1,0 +1,3 @@
+[submodule "TestRepository2"]
+	path = TestRepository2
+	url = https://github.com/MikeDMgit/TestRepository2.git
